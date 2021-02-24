@@ -99,3 +99,5 @@ unsigned int64  UINT64;
 
 ```
 It is recommended that you take a look at the other #defines and structs in the header files in Burn and Burner, and don't forget that some of the existing code in the intf directory will come in handy for new ports. 
+
+这个分支的WINDOWS版有屏蔽CRC校验的功能
